@@ -9,4 +9,4 @@ Hi, I'm Shivam — a Machine Learning Engineer passionate about building real-wo
 
 🚀 Tech Stack: Python, TensorFlow, Scikit-learn, GCP (Vertex AI, BigQuery), AWS, SQL, Power BI, Tableau, Streamlit, Gradio, Git.
 
-🔍 I'm looking for full-time opportunities where I can apply my ML and data science skills to solve meaningful problems.
+🔍 I'm looking for full-time opportunities where I can apply my ML and data science skills to solve meaningful problems..
